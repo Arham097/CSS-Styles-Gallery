@@ -1,0 +1,54 @@
+/* header{
+    height: 100px;
+    width: 100px;
+    border: solid black 2px;
+} */
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+#navbar{
+    background-color: #0f1111;
+    height: 60px;
+    border: solid white 4px;
+   
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+#s1{
+    color: black;
+    
+}
+button{
+    width: 65px;
+    height: 25px;
+    background-color: #f08804;
+    font-size: small;
+}
+.navigation{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+    
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: solid black 2px;
+}
+#content{
+    height: 510px;
+    width: 100px;
+    /* display: inline; */
+    /* border: solid black 2px; */
+}
+footer{
+    background-color: #0f1111;
+    text-align: center;
+    color: white;
+    
+}
